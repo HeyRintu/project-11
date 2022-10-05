@@ -19,7 +19,7 @@
 <br>
 
 ## desktop view: 
-![mobile](./SS/desktop.png)
+![mobile](./ss/desktop.png)
 
 <br>
 
@@ -27,7 +27,7 @@
 <br>
 
 ## Full screen view:
-![desktop](./SS/mob.png)
+![desktop](./ss/mob.png)
 
 <br>
 
