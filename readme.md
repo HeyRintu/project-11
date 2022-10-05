@@ -1,4 +1,4 @@
-# **Project 12: Hosting Landing Page*
+# **Project 11: Hosting Landing Page*
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
